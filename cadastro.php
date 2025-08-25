@@ -37,7 +37,7 @@
             type="password" 
             name="password" 
             id="password" 
-            placeholder="Digite sua senha" 
+            placeholder="Digite sua senha/CPF" 
             required
         >
 
