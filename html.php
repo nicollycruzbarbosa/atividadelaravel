@@ -8,7 +8,7 @@
     </head>
 
 <body>
-    <h1>Seja bem-vindo(a)! Cadastre-se ✅</h1>
+    <h1>Seja bem-vindo(a) ao Hospital NISA! Cadastre-se ✅</h1>
 
     <a href="cadastro.php">Cadastrar</a>
 </body>
