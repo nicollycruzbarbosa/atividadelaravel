@@ -87,8 +87,10 @@
     <option value="Clínico Geral">Clínico Geral</option>
     <option value="Pediatria">Pediatria</option>
     <option value="Teleconsulta">TeleConsulta</option>
+    <option value="Outro..">Outro...</option>
+
   </select>
-  <input type="text" placeholder="Digite aqui...">
+  
 </div>
 
 
