@@ -1,6 +1,3 @@
-Perfeito! Então podemos simplificar bastante o README pra refletir exatamente o que o seu projeto faz. Aqui está uma versão ajustada:
-
----
 
 # Sistema de Atendimentos Hospitalares - NISA
 
@@ -10,14 +7,10 @@ Este projeto é um sistema simples para o gerenciamento de atendimentos hospital
 
 ## Funcionalidades
 
-* **Cadastro de Usuários**: Criação de perfis de usuários com informações pessoais como nome, e-mail, telefone e senha.
+* **Cadastro de Usuários**: Criação de perfis de usuários com informações pessoais como nome, e-mail e senha.
 * **Cadastro de Pacientes**: Registro de pacientes com informações essenciais para atendimentos.
 
 ## Tecnologias Utilizadas
 
 * **Front-end**: HTML, CSS
 * **Back-end**: PHP
-
-
-
-Quer que eu faça isso?
