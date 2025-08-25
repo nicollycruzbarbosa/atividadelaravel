@@ -49,37 +49,11 @@
             id="date" 
             required
         >
-       <style>
-  .campo-combinado {
-    display: flex;
-    align-items: stretch; /* deixa todos com a mesma altura */
-    border: 1px solid #ccc;
-    border-radius: 6px;
-    overflow: hidden;
-    max-width: 350px;
-  }
+       
 
-  .campo-combinado select,
-  .campo-combinado input {
-    border: none;
-    padding: 10px;
-    font-size: 14px;
-    outline: none;
-  }
-
-  .campo-combinado select {
-    background: #f0f0f0;
-    cursor: pointer;
-  }
-
-  .campo-combinado input {
-    flex: 1; /* ocupa o espaço restante */
-  }
-</style>
-
-<label for="tipoAtendimento">Tipo de atendimento:</label>
-<div class="campo-combinado">
-  <select id="tipoAtendimento">
+    <label for="tipoAtendimento">Tipo de atendimento:</label>
+    <div class="campo-combinado">
+    <select id="tipoAtendimento">
     <option value="">Selecione:</option>
     <option value="Consulta">Consulta Presencial</option>
     <option value="Emergência">Emergência</option>
